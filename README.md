@@ -35,6 +35,7 @@ The "MAILOUT" data has been split into two approximately equal parts, each with 
 ## Results<a name="results"></a>
 
 The main findings of the code can be found in the notebook.
+Blog: https://blog.csdn.net/weixin_40140086/article/details/85015604
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
