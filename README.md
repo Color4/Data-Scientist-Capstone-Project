@@ -40,6 +40,16 @@ The "MAILOUT" data has been split into two approximately equal parts, each with 
 The main findings of the code can be found in the notebook.
 Blog: https://blog.csdn.net/weixin_40140086/article/details/85015604
 
+## Conclusion
+### PCA
+- When there are many features, we can reduce the time and space complexity of the problem by reducing the dimension.
+- By analyzing the principal components of the data, we can understand some meaningful relationships between features, and then  understand the data more deeply.
+### KMeans
+- When we don't know the number of clusters, we can determine the number of clusters through experiments by findout the inflection point of the decline of clustering score.
+- PCA can be used to visualize the clustering of high-dimensional data and help us to judge the clustering quality.
+### Supervised machine learning
+- When the positive and negative samples are very unbalanced, we can use the up-sampling technology to increase the number of positive examples and optimize the performance of the model.
+
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle).  Otherwise, feel free to use the code here as you would like! 
